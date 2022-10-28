@@ -11,3 +11,6 @@ The purpose of this development is to learn how to use Django by building a proj
 - Create Topics and add Entries for the topics you create -> ![plot](./doc/topics.png)
 
 ![plot](./doc/entries.png)
+
+## NOTE
+This repo is for learning purposes of Django framework based on the book *Python Crash Course* Chapter 18
